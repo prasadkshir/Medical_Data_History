@@ -1,5 +1,3 @@
-# Medical_Data_History
-"SQL-based analysis of medical data history, patient records, and hospital admissions."
 # 🏥 Medical Data History – SQL Analysis  
 
 ## 📌 Project Overview  
@@ -28,4 +26,4 @@ This project analyzes **patient records, admissions, and diagnoses** using SQL. 
 ## 📬 Contact Me  
 📧 **Email:** kshirsagarprasad92@gmail.com  
 🔗 **LinkedIn:** [Prasad Kshirsagar](https://www.linkedin.com/in/kshirsagarprasad92)  
-🔗 **GitHub Repository:** [Medical Data History](https://github.com/YOUR-USERNAME/Medical_Data_History)  
+🔗 **GitHub Repository:** [Medical Data History](https://github.com/prasadkshir/Medical_Data_History.git)  
